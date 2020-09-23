@@ -1,5 +1,7 @@
 # 爬虫学习笔记
 
+**⚠ 本仓库所有关于爬虫的代码仅供学习研究使用，不得用于商业用途，如有侵权请联系作者删除！**
+
 **难易程度不分先后**
 
 **主要参考链接：**
@@ -34,3 +36,10 @@
 + 难度：☆
 + 检查可用日期：20200923
 + 参考：[ref](0x04doubanMovieExplore_spider/ref.md)
+
+## [0x05baotuVideo_spider](0x05baotuVideo_spider)
++ 说明：爬取包图网视频
++ 知识点：requests，视频下载，多线程
++ 难度：☆
++ 检查可用日期：20200923
++ 参考：[ref](0x05baotuVideo_spider/ref.md)

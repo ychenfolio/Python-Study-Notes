@@ -9,21 +9,21 @@
 
 ## [0x01maoyanTop100_spider](0x01maoyanTop100_spider)
 + 说明：爬取猫眼Top100电影的信息
-+ 知识点：requests，json
++ 知识点：requests，正则
 + 难度：☆
 + 检查可用日期：20200917
 + 参考：[ref](0x01maoyanTop100_spider/ref.md)
 
 ## [0x02weiboSingleUser_spider](0x02weiboSingleUser_spider)
 + 说明：爬取微博单个用户博文信息
-+ 知识点：requests，ajxa，json
++ 知识点：requests，ajxa，json，pq
 + 难度：☆
 + 检查可用日期：20200919
 + 参考：[ref](0x02weiboSingleUser_spider/ref.md)
 
 ## [0x03toutiaoArticle_spider](0x03toutiaoArticle_spider)
 + 说明：爬取今日头条单篇文章图片
-+ 知识点：requests，ajxa，图片下载
++ 知识点：requests，ajxa，图片下载，正则
 + 难度：☆
 + 检查可用日期：20200920
 + 参考：[ref](0x03toutiaoArticle_spider/ref.md)
@@ -37,21 +37,28 @@
 
 ## [0x05baotuVideo_spider](0x05baotuVideo_spider)
 + 说明：爬取包图网视频
-+ 知识点：requests，视频下载，多线程
++ 知识点：requests，视频下载，多线程，BeautifulSoup，lxml
 + 难度：☆
 + 检查可用日期：20200923
 + 参考：[ref](0x05baotuVideo_spider/ref.md)
 
 ## [0x06quanjingCategoryImg_spider](0x06quanjingCategoryImg_spider)
 + 说明：爬取全景网分类图片
-+ 知识点：requests，图片下载，多线程
++ 知识点：requests，图片下载，多线程，BeautifulSoup
 + 难度：☆
 + 检查可用日期：20200924
 + 参考：[ref](0x06quanjingCategoryImg_spider/ref.md)
 
 ## [0x07doubanMusicChart_spider](0x07doubanMusicChart_spider)
 + 说明：爬取豆瓣音乐排行榜
-+ 知识点：requests，数据解析
++ 知识点：requests，数据解析，BeautifulSoup
 + 难度：☆
 + 检查可用日期：20200924
 + 参考：[ref](0x07doubanMusicChart_spider/ref.md)
+
+## [0x08doubanSingleMovieComment_spider](0x08doubanSingleMovieComment_spider)
++ 说明：抓取与分析豆瓣单部电影影评
++ 知识点：requests，jieba，wordcloud，Snownlp，matplotlib，lxml 
++ 难度：☆☆
++ 检查可用日期：20200924
++ 参考：[ref](0x08doubanSingleMovieComment_spider/ref.md)

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 23 19:57:30 2020
-豆瓣选电影页面信息爬虫
+豆瓣选电影页面信息爬取
 @author: luohenyueji
 """
 

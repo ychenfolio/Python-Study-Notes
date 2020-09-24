@@ -22,7 +22,7 @@ def parseHtml(url):
 
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'lxml')
-    # 使用css选择器获取class="article"的节点下面的所有li节点
+    # 使用css选择器获取class="col5"节点下面的所有li节点
     for index, li in enumerate(soup.select(".col5 li")):
         if index < 10:
             yield {

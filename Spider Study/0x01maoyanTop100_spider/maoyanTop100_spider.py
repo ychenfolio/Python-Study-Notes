@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-猫眼top100电影排行抓取http://maoyan.com/board/4
+猫眼top100电影排行榜抓取http://maoyan.com/board/4
 Created on Thu Sep 17 19:40:58 2020
 
 @author: luohenyueji

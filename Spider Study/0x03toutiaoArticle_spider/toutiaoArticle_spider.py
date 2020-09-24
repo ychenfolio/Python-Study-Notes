@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 20 19:20:40 2020
-今日头条单篇文章爬虫
+今日头条单篇文章爬取
 @author: luohenyueji
 """
 

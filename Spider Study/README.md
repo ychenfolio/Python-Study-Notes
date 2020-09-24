@@ -2,9 +2,7 @@
 
 **⚠ 本仓库所有关于爬虫的代码仅供学习研究使用，不得用于商业用途，如有侵权请联系作者删除！**
 
-**难易程度不分先后**
-
-**主要参考链接：**
+**项目难易程度不分先后，主要参考链接：**
 + [Python3网络爬虫开发实战教程](https://cuiqingcai.com/5052.html)
 + [ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers)
 ---
@@ -43,3 +41,17 @@
 + 难度：☆
 + 检查可用日期：20200923
 + 参考：[ref](0x05baotuVideo_spider/ref.md)
+
+## [0x06quanjingCategoryImg_spider](0x06quanjingCategoryImg_spider)
++ 说明：爬取全景网分类图片
++ 知识点：requests，图片下载，多线程
++ 难度：☆
++ 检查可用日期：20200924
++ 参考：[ref](0x06quanjingCategoryImg_spider/ref.md)
+
+## [0x07doubanMusicChart_spider](0x07doubanMusicChart_spider)
++ 说明：爬取豆瓣音乐排行榜
++ 知识点：requests，数据解析
++ 难度：☆
++ 检查可用日期：20200924
++ 参考：[ref](0x07doubanMusicChart_spider/ref.md)

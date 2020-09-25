@@ -16,7 +16,7 @@
 
 ## [0x02weiboSingleUser_spider](0x02weiboSingleUser_spider)
 + 说明：爬取微博单个用户博文信息
-+ 知识点：requests，ajxa，json，pq
++ 知识点：requests，ajxa，json，pyquery
 + 难度：☆
 + 检查可用日期：20200919
 + 参考：[ref](0x02weiboSingleUser_spider/ref.md)
@@ -57,8 +57,22 @@
 + 参考：[ref](0x07doubanMusicChart_spider/ref.md)
 
 ## [0x08doubanSingleMovieComment_spider](0x08doubanSingleMovieComment_spider)
-+ 说明：抓取与分析豆瓣单部电影影评
++ 说明：爬取与分析豆瓣单部电影影评
 + 知识点：requests，jieba，wordcloud，Snownlp，matplotlib，lxml 
 + 难度：☆☆
 + 检查可用日期：20200924
 + 参考：[ref](0x08doubanSingleMovieComment_spider/ref.md)
+
+## [0x09xiaomiShopCategoryApp_spider](0x09xiaomiShopCategoryApp_spider)
++ 说明：爬取小米应用商店分类应用数据
++ 知识点：requests
++ 难度：☆
++ 检查可用日期：20200925
++ 参考：[ref](0x09xiaomiShopCategoryApp_spider/ref.md)
+
+## [0x10kuanShopApp_spider](0x10kuanShopApp_spider)
++ 说明：爬取酷安应用商店应用数据
++ 知识点：requests，多线程，lxml，正则
++ 难度：☆☆
++ 检查可用日期：20200925
++ 参考：[ref](0x10kuanShopApp_spider/ref.md)

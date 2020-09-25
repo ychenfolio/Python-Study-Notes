@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Sep 24 01:08:07 2020
-豆瓣单部电影影评抓取与分析
+豆瓣单部电影影评爬取与分析
 @author: luohenyueji
 """
 

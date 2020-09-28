@@ -77,9 +77,16 @@
 + 检查可用日期：20200925
 + 参考：[ref](0x10kuanShopApp_spider/ref.md)
 
-## [0X11bingioliu_spider](0X11bingioliu_spider)
+## [0x11bingioliu_spider](0x11bingioliu_spider)
 + 说明：爬取bingioliu网站必应每日高清壁纸
 + 知识点：requests，lxml
 + 难度：☆
 + 检查可用日期：20200925
-+ 参考：[ref](0X11bingioliu_spider/ref.md)
++ 参考：[ref](0x11bingioliu_spider/ref.md)
+
+## [0x12shicimingjuwang_spider](0x12shicimingjuwang_spider)
++ 说明：爬取诗词名句网数据
++ 知识点：requests，BeautifulSoup，多线程
++ 难度：☆
++ 检查可用日期：20200928
++ 参考：[ref](0x12shicimingjuwang_spider/ref.md)
